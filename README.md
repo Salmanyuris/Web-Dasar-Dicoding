@@ -1,6 +1,6 @@
 # Web Dasar Assessment
 
-Website sederhana bertema **keindahan alam** yang dibuat sebagai bagian dari Web Dasar Assessment. Website menampilkan beberapa kategori seperti pegunungan, danau, pantai, dan perhutanan.
+Website sederhana bertema **keindahan alam** yang dibuat sebagai bagian dari Pelatihan Web Dasar Assessment. Website menampilkan beberapa kategori seperti pegunungan, danau, pantai, dan perhutanan.
 
 ## Features
 
@@ -105,7 +105,6 @@ Atau gunakan **Live Server** pada Visual Studio Code untuk menjalankan website s
 
 Universitas Dian Nuswantoro  
 Sistem Informasi
-
 ## License
 
 This project is created for educational and assessment purposes.
