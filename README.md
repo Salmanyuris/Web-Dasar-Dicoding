@@ -26,10 +26,13 @@ Website sederhana bertema **ALAM** yang dibuat sebagai bagian dari Pelatihan Web
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts
+- HTML5 digunakan sebagai dasar dalam membangun struktur dan kerangka halaman website. HTML5 memungkinkan penggunaan elemen-elemen semantic HTML seperti header, nav, main, section, article, aside, dan footer sehingga struktur website menjadi lebih terorganisir, mudah dipahami, serta mendukung aksesibilitas dan SEO.
+
+- CSS3 digunakan untuk mengatur tampilan dan desain website agar terlihat lebih menarik, modern, dan responsif. CSS3 digunakan untuk mengatur warna, ukuran dan jenis tulisan, jarak antar elemen, layout halaman, gambar, tombol, sidebar, serta berbagai efek visual lainnya.
+
+- JavaScript digunakan untuk menambahkan fungsi interaktif pada website sehingga halaman tidak hanya bersifat statis. JavaScript dapat digunakan untuk membuat fitur seperti tombol kembali ke bagian atas, navigasi yang lebih interaktif, efek scrolling, serta berbagai interaksi lainnya yang dapat meningkatkan pengalaman pengguna.
+
+- Google Fonts digunakan untuk menyediakan jenis huruf yang lebih modern dan menarik pada website. Font Poppins digunakan sebagai font utama karena memiliki desain yang sederhana, bersih, dan mudah dibaca, sehingga membantu menciptakan tampilan website yang lebih konsisten dan profesional.
 
 ## Project Structure
 
