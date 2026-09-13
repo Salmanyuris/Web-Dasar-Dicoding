@@ -108,20 +108,16 @@ cd web-dasar-assessment
 ```
 
 3. Buka file `index.html` menggunakan browser.
-
-Atau gunakan **Live Server** pada Visual Studio Code untuk menjalankan website secara lokal.
+   Atau gunakan **Live Server** pada Visual Studio Code untuk menjalankan website secara lokal.
 
 ## Author
 
 **Salman Yuris Adila Azzami**
-
 Universitas Dian Nuswantoro  
 Sistem Informasi
 
 ## License
 
-This project is created for educational and assessment purposes.
+## This project is created for educational and assessment purposes.
 
----
-
-© 2024 Salman Yuris Adila Azzami
+© 2026 Salman Yuris Adila Azzami
