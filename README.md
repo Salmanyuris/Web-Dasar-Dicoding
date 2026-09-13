@@ -4,16 +4,25 @@ Website sederhana bertema **ALAM** yang dibuat sebagai bagian dari Pelatihan Web
 
 ## Features
 
-- Navigation bar dengan anchor link
-- Jumbotron/header
-- Konten artikel mengenai keindahan alam
-- Featured image pada setiap artikel
-- Profile sidebar
-- Informasi profil dalam bentuk tabel
-- Tombol "Kunjungi"
-- Tombol kembali ke bagian atas
-- Google Fonts menggunakan Poppins
-- Struktur HTML menggunakan semantic HTML
+- Navigation bar dengan anchor link yang digunakan untuk memudahkan pengguna berpindah ke berbagai bagian halaman secara langsung, seperti bagian beranda, artikel, profil, dan informasi lainnya tanpa harus melakukan scroll secara manual.
+
+- Jumbotron/Header sebagai bagian pembuka halaman yang menampilkan judul utama, deskripsi singkat, serta tampilan visual yang menarik untuk memberikan kesan pertama yang baik kepada pengunjung website.
+
+- Konten artikel mengenai keindahan alam yang berisi informasi dan penjelasan mengenai berbagai destinasi atau objek wisata alam. Artikel dibuat informatif dan menarik agar pembaca dapat mengetahui keunikan, keindahan, serta daya tarik dari setiap tempat yang dibahas.
+
+- Featured image pada setiap artikel yang berfungsi sebagai gambar utama atau gambar unggulan untuk memperkuat informasi yang disampaikan dalam artikel. Penggunaan gambar juga membuat tampilan artikel menjadi lebih menarik dan tidak terlalu monoton.
+
+- Profile sidebar yang ditempatkan di bagian samping halaman dan berisi informasi singkat mengenai profil pembuat atau pemilik website. Sidebar dapat mencakup foto profil, nama, deskripsi singkat, serta informasi tambahan lainnya.
+
+- Informasi profil dalam bentuk tabel untuk menyajikan data profil secara lebih terstruktur dan mudah dibaca. Informasi yang dapat ditampilkan antara lain nama, tempat dan tanggal lahir, alamat, pekerjaan, pendidikan, maupun informasi lainnya yang relevan.
+
+- Tombol "Kunjungi" yang digunakan sebagai tombol aksi untuk mengarahkan pengguna menuju halaman atau sumber informasi yang berkaitan dengan destinasi alam yang sedang dibahas. Tombol ini membantu pengguna memperoleh informasi lebih lanjut mengenai tempat tersebut.
+
+- Tombol kembali ke bagian atas yang memungkinkan pengguna kembali dengan cepat ke bagian paling atas halaman setelah membaca konten yang panjang. Fitur ini meningkatkan kenyamanan dan kemudahan navigasi, terutama pada halaman yang memiliki banyak artikel.
+
+- Google Fonts menggunakan Poppins sebagai jenis font utama website. Font Poppins dipilih karena memiliki tampilan modern, sederhana, dan mudah dibaca sehingga dapat memberikan kesan visual yang lebih rapi dan profesional.
+
+- Struktur HTML menggunakan semantic HTML dengan memanfaatkan elemen-elemen semantik seperti <header>, <nav>, <main>, <article>, <aside>, <section>, dan <footer>. Penggunaan semantic HTML membuat struktur halaman lebih terorganisir, mudah dipahami, serta membantu meningkatkan aksesibilitas dan optimasi mesin pencari (SEO).
 
 ## Technologies
 
@@ -57,7 +66,7 @@ Menampilkan informasi dan gambar mengenai pemandangan pegunungan.
 
 ### 2. Danau
 
-Menampilkan informasi mengenai pemandangan dan suasana danau.
+Menampilkan informasi mengenai pemandangan dan suasana danau yang asri.
 
 ### 3. Pantai
 
