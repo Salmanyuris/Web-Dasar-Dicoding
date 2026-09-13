@@ -1,6 +1,6 @@
 # Web Dasar Assessment
 
-Website sederhana bertema **keindahan alam** yang dibuat sebagai bagian dari Pelatihan Web Dasar Assessment. Website menampilkan beberapa kategori seperti pegunungan, danau, pantai, dan perhutanan.
+Website sederhana bertema **ALAM** yang dibuat sebagai bagian dari Pelatihan Web Dasar Assessment. Website menampilkan beberapa kategori seperti pegunungan, danau, pantai, dan perhutanan.
 
 ## Features
 
@@ -71,15 +71,15 @@ Menampilkan informasi mengenai hutan serta sub-section **Hutan Rimba**.
 
 Pada bagian sidebar terdapat informasi profil:
 
-| Informasi | Detail |
-|---|---|
-| Nama | Salman Yuris |
-| Profesi | UI Designer |
-| Asal Kampus | Universitas Dian Nuswantoro |
-| Kota | Tegal |
-| Tanggal Lahir | 11 April 2003 |
-| Bahasa Daerah | Jawa [Ngapak] |
-| Kampus Merdeka | Bangkit Academy |
+| Informasi      | Detail                      |
+| -------------- | --------------------------- |
+| Nama           | Salman Yuris                |
+| Profesi        | UI Designer                 |
+| Asal Kampus    | Universitas Dian Nuswantoro |
+| Kota           | Tegal                       |
+| Tanggal Lahir  | 11 April 2003               |
+| Bahasa Daerah  | Jawa [Ngapak]               |
+| Kampus Merdeka | Bangkit Academy             |
 
 ## How to Run
 
@@ -105,6 +105,7 @@ Atau gunakan **Live Server** pada Visual Studio Code untuk menjalankan website s
 
 Universitas Dian Nuswantoro  
 Sistem Informasi
+
 ## License
 
 This project is created for educational and assessment purposes.
